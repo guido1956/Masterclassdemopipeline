@@ -35,9 +35,9 @@ public class Auto {
 
     public String toString() {
         String output = "";
-        output += "Kenteken: " + kenteken +   "\n";
-        output += "Merk    : " + merk + "\n;";
-        output += "Kleur   : " + kleur + "\n";
+        output += "Kenteken : " + kenteken + "\n";
+        output += "Merk     : " + merk + "\n";
+        output += "Kleur    : " + kleur + "\n";
         return output;
     }
 
