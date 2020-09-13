@@ -32,4 +32,10 @@ public class Auto {
     public void setKleur(String kleur) {
         this.kleur = kleur;
     }
+
+    public String toString() {
+        String output = "";
+        output += kenteken + " " + merk  + " " + kleur;
+        return output;
+    }
 }
