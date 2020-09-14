@@ -23,6 +23,7 @@ public class Auto {
 
     public void setMerk(String merk) {
         this.merk = merk;
+        System.out.println("Test 14-9-21:24");
     }
 
     public String getKleur() {
