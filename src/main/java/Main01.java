@@ -3,6 +3,8 @@ public class Main01 {
         Auto auto = new Auto ("RS-234-S", "VW", "Groen");
         System.out.println(auto);
         System.out.println("Hans");
+        System.out.println("Klaas");
+
     }
 
 }
