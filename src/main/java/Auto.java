@@ -37,6 +37,7 @@ public class Auto {
         String output = "";
         output += kenteken + " " + merk  + " " + kleur;
         System.out.println("pipo");
+        System.out.println("mamaloe");
         return output;
     }
 }
